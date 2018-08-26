@@ -2,6 +2,8 @@
 ## 一个休闲益智类小游戏
 ## 如何运行
 运行 I wanna study at HUST.exe
+## 如何查看引擎及代码
+使用Game Maker8.0打开i wanna be the engine yuuutu edition.gb1
 ## 操作说明
 1. "Shift"键跳跃，可二段跳，长按"Shift"跳跃高度变高。
 2. "z"键发射子弹，可通过子弹按动按钮。
